@@ -1,0 +1,2 @@
+template_package
+-DCATKIN_DEVEL_PREFIX=/home/jetbot/EVC/workshops/workshop1_2191199/devel -DCMAKE_INSTALL_PREFIX=/home/jetbot/EVC/workshops/workshop1_2191199/install -G Unix Makefiles

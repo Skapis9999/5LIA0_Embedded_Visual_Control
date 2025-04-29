@@ -1,0 +1,8 @@
+prefix=/home/jetbot/EVC/workshops/template_ws/devel
+
+Name: template_package
+Description: Description of template_package
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

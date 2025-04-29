@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="template_package" type="sub.py" name="sub" output="screen">
+  </node>
+  <node pkg="template_package" type="pub.py" name="pub" output="screen">
+  </node>
+</launch>
