@@ -1,0 +1,2 @@
+motion_skapis
+-DCATKIN_DEVEL_PREFIX=/home/jetbot/EVC/workshops/workshop4_motion_2191199/devel -DCMAKE_INSTALL_PREFIX=/home/jetbot/EVC/workshops/workshop4_motion_2191199/install -G Unix Makefiles
