@@ -1,0 +1,24 @@
+# Dependencies
+
+#Battery
+pyserial
+#Button
+typing
+enum34
+#Display
+setuptools==44.1.1
+spidev==3.5
+Adafruit-SSD1306
+pillow
+#MPU
+mpu6050-raspberrypi
+smbus2
+
+numpy==1.23.5
+imutils==0.5.4
+scikit-build
+opencv-python==4.9.0.80
+matplotlib
+futures
+webcolors
+scipy
