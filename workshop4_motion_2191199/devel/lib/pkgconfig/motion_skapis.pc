@@ -1,0 +1,8 @@
+prefix=/home/jetbot/EVC/workshops/workshop4_motion_2191199/devel
+
+Name: motion_skapis
+Description: Description of motion_skapis
+Version: 0.1.0
+Cflags: -I/home/jetbot/EVC/workshops/workshop4_motion_2191199/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
