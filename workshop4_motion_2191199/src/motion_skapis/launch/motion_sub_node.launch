@@ -1,0 +1,4 @@
+<launch>
+  <!-- Subscriber Node -->
+  <node pkg="motion_skapis" type="subscriber.py" name="motion_subscriber_skapis_node" output="screen"/>
+</launch>
